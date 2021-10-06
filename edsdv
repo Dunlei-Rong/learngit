@@ -1,0 +1,29 @@
+[33mcommit f8434dd788442e8c66e522ba25aa5f25828cdecd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dunlei Rong <rongdunlei@126.com>
+Date:   Wed Oct 6 21:23:04 2021 +0800
+
+    hello git
+
+[33mcommit 3b7218cf0348ea72d4cc87dae1198776d091803b[m
+Author: Dunlei Rong <rongdunlei@126.com>
+Date:   Wed Oct 6 21:10:32 2021 +0800
+
+    understand how stage works
+
+[33mcommit d7b7cfd1bb2cd49e422a9d36d592f45c43cbc32d[m
+Author: Dunlei Rong <rongdunlei@126.com>
+Date:   Wed Oct 6 20:53:34 2021 +0800
+
+    free
+
+[33mcommit 4cf5a1db821e6843350cc23ba1d9cacd73124383[m
+Author: Dunlei Rong <rongdunlei@126.com>
+Date:   Wed Oct 6 20:50:17 2021 +0800
+
+    add distributed
+
+[33mcommit 41796cd26f035e13f1f13e2f06035308e0931a9c[m
+Author: Dunlei Rong <rongdunlei@126.com>
+Date:   Wed Oct 6 20:39:49 2021 +0800
+
+    wrote a readme file
